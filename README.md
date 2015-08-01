@@ -3,6 +3,7 @@ Responsive loading bar in css and a bit of JS
 
 ### to-do :
 - [ ] add a scroll-back up arrow corner right
+- [ ] Maybe find a way to get rid of jQuery that's so big for so small a project ?
 - [ ] that's it ?
 
 ### Smart alternative :
