@@ -2,8 +2,8 @@
 Loading bar in css and a bit of JS
 
 ### to-do :
-[ ] add a scroll-back up arrow corner right
-[ ] that's it ?
+- [ ] add a scroll-back up arrow corner right
+- [ ] that's it ?
 
 ### Smart alternative :
 
