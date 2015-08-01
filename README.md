@@ -1,5 +1,5 @@
 # loading-bar
-Loading bar in css and a bit of JS
+Responsive loading bar in css and a bit of JS
 
 ### to-do :
 - [ ] add a scroll-back up arrow corner right
